@@ -1,0 +1,50 @@
+/* <!-- Start Section1 "support" --!> */
+.support{
+    background-color: rgba(249, 241, 231, 1);
+    width: Fixed (1,440px)px;
+    height: Fixed (270px)px;
+    top: 2699px;
+    left: -3px;
+    padding: 70px 0 70px 20px;
+    margin: auto;
+}
+
+.supportIcons{
+    width: 60px;
+    height: 60px;
+    padding: 0px 3.61px 0px 3.61px;
+    gap: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.supportContent {
+    display: flex;
+    align-items: center; 
+    margin: 10px;
+}
+
+.supportIcons {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 37.5px;
+    text-align: left;
+    color:rgba(36, 36, 36, 1);    
+}
+
+.textContent h5 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.textContent span {
+    display: block; 
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color:rgba(137, 137, 137, 1);
+}
+/* <!-- End Section1 "support" --!> */

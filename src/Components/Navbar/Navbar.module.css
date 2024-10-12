@@ -1,0 +1,46 @@
+.logo{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 18px;
+}
+
+.logoText {
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: 700;
+    color: #000000;
+    line-height: 41.45px;
+}
+
+.iconShop{
+    position: relative;
+    color: #000;
+    font-size: 30px;
+    margin-bottom: 9px;
+    margin-right: 25px;
+}
+
+.cartCount{
+    position: absolute;
+    top: 6px;
+    right: 0;
+    font-size: 14px;
+    background-color: #B88E2F;
+    color: #FFFFFF;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.navbar {
+    font-family: Poppins;
+    font-weight: 600;
+    z-index: 99 !important; 
+}
+
+

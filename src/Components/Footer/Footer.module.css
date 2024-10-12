@@ -1,0 +1,19 @@
+.footer{
+    background-color:#FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.footerLinks a, .footerHelp a {
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px; 
+    margin-bottom: 30px;
+}
+
+

@@ -1,0 +1,102 @@
+/* <!-- Start Section1 "banner" --!> */
+.banner{
+    background-image:
+    linear-gradient( #c5d0e6 1.98%, rgba(179, 183, 219, 0.351) 103.12%),
+    url('../../Assets/WhatsApp\ Image\ 2024-10-05\ at\ 01.35.46_634487cc.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 316px; 
+    width: 100%;
+    margin-top: 80px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: auto;
+    margin-top: 90px;
+}
+
+.logo img {
+    width: 77px;
+    height: 77px;
+}
+
+.title{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 72px;
+    text-align: center;
+}
+/* <!-- End Section1 "banner" --!> */
+
+/* <!-- Start Section2 "contact" --!> */
+.contactInfo{
+    width: 393px;
+    height: 537px;
+    top: 705px;
+    left: 191px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+}
+
+.contactInfo p{
+    padding-left: 50px;
+}
+
+.info{
+    margin-bottom: 40px;
+    padding-left: 40px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.icon i{
+    margin-right: 30px;
+}
+
+.contactForm{
+    width:100%;
+    top: 637px;
+    left: 614px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 40px;
+    margin: auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+
+.submit{
+    width: 237px;
+    height: 55px;
+    top: 1442px;
+    left: 673px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(184, 142, 47, 1); 
+    background-color: rgba(184, 142, 47, 1);
+    color:rgba(255, 255, 255, 1);
+    cursor: pointer;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    transition: 0.6s ease;
+}
+
+.submit:hover{
+    background-color:  #9d7a29;
+}
+
+/* <!-- End Section2 "contact" --!> */
